@@ -1,0 +1,32 @@
+body{
+
+}
+h2{
+  font-size: 50px;
+  font-weight: 100;
+}
+h3{
+  font-size: 25px;
+  font-weight: 100;
+}
+.ui.borderless.topmenu.menu {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.button{
+  border: black;
+}
+.smaller-text{
+  font-size: 15px;
+}
+.larger-text{
+  font-size: 20px;
+}
+
+.footer-background{
+  color: white;
+  height: 100px;
+}
